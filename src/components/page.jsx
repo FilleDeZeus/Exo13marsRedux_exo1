@@ -12,4 +12,4 @@ export const Page = () => {
             </AppContextProvider>
         </div>
     )
-}
+} 

@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { AppContext } from '../../../../appContext/appContext.jsx';
-import { counterSlice } from '../../../../slices/counter/counterSlice.jsx';
+import { counterSlice } from '../../../../slices/counterSlice.jsx';
 
 const { incrementer, decrementer, addition, soustraction, newValue } = counterSlice.actions 
 //importation du style

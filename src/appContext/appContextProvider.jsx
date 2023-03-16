@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import { AppContext } from './appContext.jsx';
 
 //importation du store
-import { store } from '../slices/counter/store.jsx';
+import { store } from '../store.jsx';
 
 
 //creation et exportation de Composant avec les enfants en props

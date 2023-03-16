@@ -1,4 +1,4 @@
-import {counterSlice} from './counterSlice.jsx';
+import { counterSlice } from './slices/counterSlice';
 import { configureStore } from '@reduxjs/toolkit';
 
 // reducer de counterSlice
